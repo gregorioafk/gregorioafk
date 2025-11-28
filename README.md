@@ -52,7 +52,6 @@ Originally from Venezuela, currently based in Argentina.
 | Project | Description | Link |
 |--------|-------------|------|
 | **LetBookly** | SaaS for online appointment scheduling | https://letbookly.com |
-| **Innova Hipotecaria** | Real estate and mortgage platform | https://innovahipotecaria.com |
 | **QueWallet** | Automated digital wallet & expense assistant | https://quewallet.com |
 
 ---
