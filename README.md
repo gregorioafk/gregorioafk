@@ -18,7 +18,6 @@ Originally from Venezuela, currently based in Argentina.
 ## 💼 Experience
 
 ### 🔹 Full-Stack Developer — **Bidcom** *(Apr 2025 – Present)*  
-- Implemented **AI automation** using Retrieval-Augmented Generation and similarity search  
 - Built and improved core features across **React, Angular, and Next.js** applications  
 - Migrated legacy codebases to **modular TypeScript and Node.js architectures**  
 **Stack:** React, Angular, Next.js, Node.js, TypeScript, GitLab, PostgreSQL, MySQL, Jest  
